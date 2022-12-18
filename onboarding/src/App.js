@@ -14,7 +14,7 @@ const initialFormValues = {
 }
 
 const initialFormErrors = {
-  usedrname: '',
+  username: '',
   password: '',
   email: '',
   tos: ''

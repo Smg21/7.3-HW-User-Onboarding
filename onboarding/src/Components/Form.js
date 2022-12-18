@@ -63,7 +63,7 @@ const Form = (props) => {
                 SUBMIT
                 <input
                 type="submit"
-                name="Create A Friend!"
+                //name="Create A Friend!"
                 value="Create A Friend!"
                 onChange={onChange}
                 />
